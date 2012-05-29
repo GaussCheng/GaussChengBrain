@@ -8,7 +8,7 @@
   <OwnerID>0</OwnerID>
   <HomeID>1</HomeID>
   <creationDateTime>1319100321456</creationDateTime>
-  <modificationDateTime>1336200404404</modificationDateTime>
+  <modificationDateTime>1338253966088</modificationDateTime>
   <xmlPrefs>&amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot; standalone=&amp;quot;no&amp;quot;?&amp;gt;
 &amp;lt;BrainPreferences&amp;gt;
   &amp;lt;BrainOptions&amp;gt;
@@ -16,7 +16,7 @@
     &amp;lt;thoughtBackgroundColors&amp;gt;false&amp;lt;/thoughtBackgroundColors&amp;gt;
     &amp;lt;BrainContextString Number=&amp;quot;0&amp;quot;/&amp;gt;
     &amp;lt;BrainContextString Number=&amp;quot;10000&amp;quot;/&amp;gt;
-    &amp;lt;BrainContextString Number=&amp;quot;3&amp;quot;&amp;gt;WenQuanYi Micro Hei Mono&amp;lt;/BrainContextString&amp;gt;
+    &amp;lt;BrainContextString Number=&amp;quot;3&amp;quot;&amp;gt;WenQuanYi Zen Hei&amp;lt;/BrainContextString&amp;gt;
   &amp;lt;/BrainOptions&amp;gt;
   &amp;lt;BrainColors&amp;gt;
     &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;0&amp;quot;&amp;gt;ff000000&amp;lt;/BrainContextColor&amp;gt;
@@ -46,8 +46,11 @@
   &amp;lt;BrainPins&amp;gt;
     
     
-  &amp;lt;Pin Number=&amp;quot;0&amp;quot;&amp;gt;1DD27CB3-A22F-89F1-00A3-384D8D7E507A&amp;lt;/Pin&amp;gt;
-    &amp;lt;Pin Number=&amp;quot;1&amp;quot;&amp;gt;52D3D1CB-AF5E-517A-A6DE-8F38930378DA&amp;lt;/Pin&amp;gt;
+    
+  &amp;lt;Pin Number=&amp;quot;0&amp;quot;&amp;gt;CFF18979-BE71-3D61-2C40-041B6381A302&amp;lt;/Pin&amp;gt;
+    &amp;lt;Pin Number=&amp;quot;1&amp;quot;&amp;gt;25A43134-57E3-898A-5378-226796959BED&amp;lt;/Pin&amp;gt;
+    &amp;lt;Pin Number=&amp;quot;2&amp;quot;&amp;gt;9400D585-00B4-D4BC-CDC2-6D1746A802EE&amp;lt;/Pin&amp;gt;
+  &amp;lt;Pin Number=&amp;quot;3&amp;quot;&amp;gt;809EC701-4887-EC75-9C90-ECD305A13F78&amp;lt;/Pin&amp;gt;
   &amp;lt;/BrainPins&amp;gt;
 &amp;lt;/BrainPreferences&amp;gt;
 </xmlPrefs>

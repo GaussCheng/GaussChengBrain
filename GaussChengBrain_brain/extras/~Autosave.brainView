@@ -1,7 +1,7 @@
 <Brain>
   <Property name="fontSize" value="15"/>
   <Property name="gravity" value="4.0"/>
-  <Thought id="2,44" xPos="682.0" yPos="260.9999999999999">
+  <Thought id="2,44" xPos="500.0" yPos="186.9999999999999">
     <Property name="activated" value="true"/>
     <Property name="fixed" value="false"/>
   </Thought>
