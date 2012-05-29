@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="EditLive! 7.6.2.10" />
+<meta name="generator" content="PersonalBrain 6.0.7.4" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+<!--
+body {
+font-family: Arial;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+-->
+</style>
+</head>
+<body>
+<table border="1" width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="25%">阶段</td>
+<td width="25%">主要输入</td>
+<td width="25%">主要输出</td>
+<td width="25%">描述</td>
+</tr>
+<tr>
+<td width="25%">原型定义</td>
+<td width="25%">项目干系人需求</td>
+<td width="25%">系统需求用例模型</td>
+<td width="25%">为当前微周期的开发，将项目干系人需求的子集转换为系统需求</td>
+</tr>
+<tr>
+<td width="25%">对象分析</td>
+<td width="25%">系统需求</td>
+<td width="25%">功能正确模型和源代码</td>
+<td width="25%">开发软件实现功能需求，包括编码，调试和单元测试</td>
+</tr>
+<tr>
+<td width="25%">架构设计</td>
+<td width="25%">功能正确的代码和模型</td>
+<td width="25%">架构优化的代码和模型</td>
+<td width="25%">基于明确设计决策优化代码，意味着从整体上优化系统；包括编码，调试和单元测试</td>
+</tr>
+<tr>
+<td width="25%">功能设计</td>
+<td width="25%">架构优化的代码和模型</td>
+<td width="25%">协作优化的代码和模型</td>
+<td width="25%">基于明确设计决策的优化代码，要优化元素间协作，意味着实现功能和用例，包括编码，调试和单元测试</td>
+</tr>
+<tr>
+<td width="25%">详细设计</td>
+<td width="25%">协作优化的代码和模型</td>
+<td width="25%">优化的函数和数据结构</td>
+<td width="25%">基于功能，变量和类型层明确的设计决策优化代码</td>
+</tr>
+<tr>
+<td width="25%">模型/代码评审</td>
+<td width="25%">模型和单元测试代码</td>
+<td width="25%">基于评审的变更请求</td>
+<td width="25%">评审分析，设计和代码的一致性，完整性和正确性</td>
+</tr>
+<tr>
+<td width="25%">验证</td>
+<td width="25%">优化后的源代码</td>
+<td width="25%">基于发现的缺陷验证系统和变更请求</td>
+<td width="25%">根据到目前为止已经实现的需求来测试系统，包括之前的微周期需求的回归测试</td>
+</tr>
+<tr>
+<td width="25%">增量审查</td>
+<td width="25%">计划，风险管理计划，重用计划，危害分析，团队问卷</td>
+<td width="25%">变更请求为过程，计划或开发环境</td>
+<td width="25%">对计划的进展进行评估并且确认计划何处必须升级，同时确认团队环境和开发需要改进的开发问题</td>
+</tr>
+<tr>
+<td width="25%">持续集成</td>
+<td width="25%">模型和单元测试源代码</td>
+<td width="25%">不断发展的软件基线</td>
+<td width="25%">至少每天执行，这项活动集成了来自多个开发人员的源代码，适用于集成测试，并更新不断变化的软件基线</td>
+</tr>
+<tr>
+<td width="25%">验证准备</td>
+<td width="25%">系统需求和用例模型</td>
+<td width="25%">测试计划，测试用例，测试修复</td>
+<td width="25%">通过计划，测试用例和测试环境的开发准备验证测试</td>
+</tr>
+</table>
+<p>&#160;</p>
+</body>
+</html>
